@@ -1,0 +1,14 @@
+# Java/Maven
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Node (au cas où un jour tu ajoutes npm)
+node_modules/
+dist/
