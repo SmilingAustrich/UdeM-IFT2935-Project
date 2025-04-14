@@ -4,6 +4,8 @@ Ce projet permet de visualiser les hôpitaux de Montréal et de gérer les inscr
 
 ## Comment lancer le projet avec Docker?
 
+- Installer docker
+- Installer postgreSQL
 
 ```
 git clone https://github.com/SmilingAustrich/hopital-docker-sprint.git
