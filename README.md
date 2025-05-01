@@ -4,9 +4,16 @@ Ce projet permet de visualiser les hôpitaux de Montréal et de gérer les inscr
 
 ## Comment lancer le projet avec Docker?
 
-- Installer docker
-- Installer postgreSQL
-- Suivre le README
+1. Installer docker
+2. Installer postgreSQL
+3. Pull le projet
+4. Aller dans la racine du projet et éxécuter la commande:
+```
+docker-compose up --build -d
+```
+
+
+- pull le projet
 
 ## Présentation du projet
 
