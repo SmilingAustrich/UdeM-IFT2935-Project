@@ -13,7 +13,6 @@ docker-compose up --build -d
 ```
 
 
-- pull le projet
 
 ## Présentation du projet
 
